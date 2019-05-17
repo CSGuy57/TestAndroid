@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         
         // I made a comment.
+        
+        // I made a comment in the DB Branch.
     }
 }
